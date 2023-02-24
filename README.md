@@ -1,2 +1,16 @@
-# Dashboards
-Дашборды
+<h1 align="center">Dashboards. Дашборды.</h1>
+<p align="center"><img src='https://i.pinimg.com/originals/e8/ce/d3/e8ced3130e8ee088893b962f1b3e3465.jpg' width="400" height="300"></p>
+
+Дашборды выполнены в Power BI. [Ссылка на файл pbix.](https://github.com/Kholmogorovaaa/Dashboards/blob/main/dash_sales.pbix)
+
+<h3 align="center">Выполнение плана продаж</h1>
+<p align="center"><img src='https://github.com/Kholmogorovaaa/Dashboards/blob/main/%D0%92%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B0%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6.png?raw=true'></p>
+
+<h3 align="center">Продажи к прошлому году</h1>
+<p align="center"><img src='https://github.com/Kholmogorovaaa/Dashboards/blob/main/%D0%9F%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%BA%20%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%BE%D0%BC%D1%83%20%D0%B3%D0%BE%D0%B4%D1%83.png?raw=true'></p>
+
+**P.S. Репозиторий пополняется.**
+
+**Холмогорова Алёна**  
++79655043458  связь через WhatsApp и Telegram  
+y.holms@yandex.ru  
