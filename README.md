@@ -9,6 +9,9 @@
 <h3 align="center">Продажи к прошлому году</h1>
 <p align="center"><img src='https://github.com/Kholmogorovaaa/Dashboards/blob/main/%D0%9F%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D0%BA%20%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%BE%D0%BC%D1%83%20%D0%B3%D0%BE%D0%B4%D1%83.png?raw=true'></p>
 
+<h3 align="center">Средний чек</h1>
+<p align="center"><img src='https://github.com/Kholmogorovaaa/Dashboards/blob/main/%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9%20%D1%87%D0%B5%D0%BA.png?raw=true'></p>
+
 **P.S. Репозиторий пополняется.**
 
 **Холмогорова Алёна**  
