@@ -1,7 +1,7 @@
 <h1 align="center">Dashboards. Дашборды.</h1>
 <p align="center"><img src='https://i.pinimg.com/originals/e8/ce/d3/e8ced3130e8ee088893b962f1b3e3465.jpg' width="400" height="300"></p>
 
-Дашборды выполнены в Power BI по тех.заданиям. 
+Дашборды выполнены в Power BI по тех.заданиям и без них.  
 Так же разрабатываю их в среде SSRS Report Builder. 
 
 <h3 align="center">Аналитика продаж</h1>
